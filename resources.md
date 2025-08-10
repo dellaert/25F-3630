@@ -2,6 +2,10 @@
 layout: default
 title: Resources
 ---
+## Textbook
+
+* [Introduction to Robotics and Perception](https://www.roboticsbook.org/intro.html)
+
 ## Python and pytorch
 
 * [Python](https://www.python.org/)

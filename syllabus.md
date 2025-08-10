@@ -19,6 +19,7 @@ The only formal prerequisite is CS1332 Data Structures & Algorithms. Prior knowl
 The course requires access to a laptop.  If you don’t have access to a laptop, please contact the instructor ASAP.  All programming assignments will be completed in Python.
 
 ### Important Links:
+* [Introduction to Robotics and Perception](https://www.roboticsbook.org/intro.html), the free online textbook for this class.
 * [Piazza!](https://piazza.com/gatech/fall2025/cs3630b) This should be your first stop for questions and announcements. 
 * [Gradescope](https://www.gradescope.com/courses/1078561) is where you will submit projects. It is also available from the Canvas menu.
 * [Canvas](https://gatech.instructure.com/courses/460152) will be used for occasional announcements and disseminating the lecture videos.
