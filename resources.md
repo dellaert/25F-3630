@@ -15,4 +15,9 @@ title: Resources
 * [Georgia Tech Academic Honor Code](https://policylibrary.gatech.edu/student-life/academic-honor-code)
 * [ADAPTS office](https://www.adapts.gatech.edu)
 
-TBA
+## Previous Versions
+
+* [Fall 2022 version](https://dellaert.github.io/22F-3630/)
+* [Spring 2021 version](https://dellaert.github.io/21S-3630/)
+* [Spring 2020 version](https://dellaert.github.io/20S-3630/)
+
