@@ -59,6 +59,14 @@ You are expected to implement the core components of each project on your own, b
 
 You should not view or edit anyone else's code. You should not post code to Piazza, except for starter code / helper code that isn't related to the core project.
 
+### Use of GenAI
+
+I ask you to be present for the assignments, thoroughly understand them, and take full ownership of the artifacts you produce. Coding with AI is now a fact of life, and it's great, thrilling even! I encourage the use of tools like co-pilot and cursor to help you code. 
+
+However, the use of generative AI to code up an entire assignment with  minimal involvement from your part (e.g., pasting the entire assignment in to an AI, or using "Agentic" AI to take care of the whole project) defeats the point of the class. Hence, this **falls under the academic dishonesty policy**. The purpose of the assignment is to build intuition and skill in robotics, which cannot be outsourced. Hence, I expect you to *personally* embark on each TODO in the coding assignments, being fully engaged. This includes using AI tools as you go along, but *not* to substitute your own understanding. 
+
+The assignments will frequently be accompanied with reflection questions designed to help assess whether you have fully grokked the methods/algorithms/techniques the assignments are designed to help you learn. I expect that you to be the author of the answers, not the prompter.
+
 ### Learning Accommodations
 If needed, we will make classroom accommodations for students with documented disabilities. These accommodations must be arranged in advance and in accordance with the [ADAPTS office](www.adapts.gatech.edu).
 
