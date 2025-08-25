@@ -1,4 +1,4 @@
-Week,Mth,Date,Day,Module,Topic,Slides,Reading,Quizzes,Projects
+﻿Week,Mth,Date,Day,Module,Topic,Slides,Reading,Quizzes,Projects
 1,Aug,19,Tue,,Introduction,L1_Course_Overview,1,Quiz 1,P1: Intro to Python
 1,Aug,21,Thu,Sorting,Six aspects of robotics systems,L2_Intro_to_Robot_Systems,1,,
 2,Aug,26,Tue,Sorting,"State, probability, and actions",L3_Trash_Robot_1,2.1-2.2,,P2: Probability and Decision Theory
@@ -27,8 +27,8 @@ Week,Mth,Date,Day,Module,Topic,Slides,Reading,Quizzes,Projects
 13,Nov,13,Thu,Drone,SE(3),L25_Drones_1_SE3,7.1,,
 14,Nov,18,Tue,Drone,Actions for Drones,L26_Drones_2_Actions,7.2,,P7: RRT and/or Trajectory Optimization
 14,Nov,20,Thu,Drone,Drone sensors,L27_Drones_3_Sensing,7.3,,
-15,Nov,25,Tue,Thanksgiving,,,,,
-15,Nov,27,Thu,Drone,Trajectory Optimization & RRT,L28_Drones_4_Planning,7.5,Quiz 7,
+15,Nov,25,Thu,Drone,Trajectory Optimization & RRT,L28_Drones_4_Planning,7.5,Quiz 7,
+15,Nov,27,Tue,Thanksgiving,,,,,
 16,Dec,2,Tue,Drone,Visual SLAM,L29_Drones_4_VisualSLAM,"7.4, 7.6-7.7",,"P7 due, all quizzes graded!"
 ,,,,,,,,,
 ,,,,,,,,,
