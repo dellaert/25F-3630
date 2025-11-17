@@ -27,8 +27,8 @@
 13,Nov,13,Thu,Drone,SE(3),L25_Drones_1_SE3,7.1,,
 14,Nov,18,Tue,Drone,Actions for Drones,L26_Drones_2_Actions,7.2,,P7: RRT and/or Trajectory Optimization
 14,Nov,20,Thu,Drone,Drone sensors,L27_Drones_3_Sensing,7.3,,
-15,Nov,25,Thu,Drone,Trajectory Optimization & RRT,L28_Drones_4_Planning,7.5,Quiz 7,
-15,Nov,27,Tue,Thanksgiving,,,,,
+15,Nov,25,Tue,Drone,Trajectory Optimization & RRT,L28_Drones_4_Planning,7.5,Quiz 7,
+15,Nov,27,Thu,Thanksgiving,,,,,
 16,Dec,2,Tue,Drone,Visual SLAM,L29_Drones_4_VisualSLAM,"7.4, 7.6-7.7",,"P7 due, all quizzes graded!"
 ,,,,,,,,,
 ,,,,,,,,,
